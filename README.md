@@ -31,11 +31,33 @@ En cuanto a la infraestructura, la empresa dispone de ordenadores, software espe
 
 ## 3. Datos de la estancia
 
+Actualmente, estoy realizando la estancia en modalidad Dual mediante un **contrato de formación Dual** con una duración total de **1000 horas**.
 
+No he realizado periodo de prueba previo, comenzando directamente con el contrato.
+
+La temporización de la estancia ha sido la siguiente:
+
+- Del **5 de junio de 2025 al 31 de julio de 2025**, realizando **7 horas diarias**.  
+- Del **1 de septiembre de 2025 al 13 de marzo de 2026**, realizando **4 horas diarias**.  
+- Del **16 de marzo de 2026 al 7 de mayo de 2026**, realizando nuevamente **7 horas diarias**.  
+
+De este modo, se han completado las **1000 horas totales** correspondientes al contrato de formación Dual.
+
+En cuanto a beneficios sociales, no he disfrutado de beneficios adicionales destacables.
+
+Durante este periodo, he podido integrarme en el entorno laboral y participar en distintas tareas relacionadas con mi formación, desarrollando tanto competencias técnicas como profesionales.
+
+El desarrollo de la estancia se ha llevado a cabo con normalidad, siguiendo la planificación establecida.
 
 ---
 
 ## 4. Relaciones profesionales y seguimiento de la estancia
+
+
+
+---
+
+## 5. Diario de practicas
 
 
 

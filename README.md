@@ -19,7 +19,13 @@ Los principales objetivos que quiero alcanzar con esta estancia en la empresa so
 
 ## 2. Datos de la entidad
 
+La entidad donde estoy realizando la estancia Dual es **EcoEquip SAM**, una empresa municipal ubicada en Terrassa.
 
+EcoEquip SAM se encarga principalmente de la gestión de servicios municipales, especialmente relacionados con la limpieza, recogida de residuos y mantenimiento de la ciudad.
+
+Dentro de la empresa, estoy ubicado en el departamento de sistemas/informática, el cual se encarga de gestionar los equipos informáticos, dar soporte técnico y asegurar el correcto funcionamiento de los sistemas de la empresa.
+
+En cuanto a la infraestructura, la empresa dispone de ordenadores, software específico de gestión, sistemas internos y otras herramientas necesarias para desarrollar el trabajo diario.
 
 ---
 

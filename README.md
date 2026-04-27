@@ -62,17 +62,17 @@ El desarrollo de la estancia se ha llevado a cabo con normalidad, siguiendo la p
 <div style="text-align: center;">
   <table style="margin: auto;">
     <tr>
-      <td align="center"><a href="#">JUNIO</a></td>
-      <td align="center"><a href="#">JULIO</a></td>
-      <td align="center"><a href="#">SEPTIEMBRE</a></td>
-      <td align="center"><a href="#">OCTUBRE</a></td>
-      <td align="center"><a href="#">NOVIEMBRE</a></td>
-      <td align="center"><a href="#">DICIEMBRE</a></td>
-      <td align="center"><a href="#">ENERO</a></td>
-      <td align="center"><a href="#">FEBRERO</a></td>
-      <td align="center"><a href="#">MARZO</a></td>
-      <td align="center"><a href="#">ABRIL</a></td>
-      <td align="center"><a href="#">MAYO</a></td>
+      <td align="center"><a href="/Diario/2025Junio.md">JUNIO</a></td>
+      <td align="center"><a href="/Diario/2025Julio.md">JULIO</a></td>
+      <td align="center"><a href="/Diario/2025Septiembre.md">SEPTIEMBRE</a></td>
+      <td align="center"><a href="/Diario/2025Octubre.md">OCTUBRE</a></td>
+      <td align="center"><a href="/Diario/2025Noviembre.md">NOVIEMBRE</a></td>
+      <td align="center"><a href="/Diario/2025Diciembre.md">DICIEMBRE</a></td>
+      <td align="center"><a href="/Diario/2026Enero.md">ENERO</a></td>
+      <td align="center"><a href="/Diario/2026Febrero.md">FEBRERO</a></td>
+      <td align="center"><a href="/Diario/2026Marzo.md">MARZO</a></td>
+      <td align="center"><a href="/Diario/2026Abril.md">ABRIL</a></td>
+      <td align="center"><a href="/Diario/2026Mayo.md">MAYO</a></td>
     </tr>
   </table>
 </div>

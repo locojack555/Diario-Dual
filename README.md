@@ -87,6 +87,11 @@ En general, valoro muy positivamente el seguimiento realizado tanto por parte de
 
 ## 6. Problemas surgidos durante la estancia
 
+Durante la estancia, surgió un pequeño problema relacionado con el registro de horas en la plataforma SBID, ya que durante el mes de diciembre no podía introducirlas correctamente.
+
+Este problema fue comunicado al tutor del instituto, Albert Grau, quien gestionó la situación de manera rápida y eficaz.
+
+La causa del problema era que el tutor de la empresa, Óscar Merino, debía completar una formación necesaria para validar las horas. Una vez solucionado este aspecto, el sistema volvió a funcionar con normalidad.
 
 ---
 

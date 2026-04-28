@@ -1,4 +1,4 @@
-# Diario-Dual
+# Diario Dual
 
 ## 1. Presentación del alumno
 

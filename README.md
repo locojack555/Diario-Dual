@@ -53,7 +53,13 @@ El desarrollo de la estancia se ha llevado a cabo con normalidad, siguiendo la p
 
 ## 4. Relaciones profesionales y seguimiento de la estancia
 
+Mi tutor en el instituto es Albert Grau, mientras que mi tutor en la empresa es Óscar Merino.
 
+La comunicación con ambos tutores ha sido buena en todo momento. Han estado disponibles cuando ha sido necesario y han facilitado el seguimiento de la estancia.
+
+Con mis compañeros de la empresa, la relación ha sido muy positiva. Me han tratado bien desde el primer momento y me he sentido integrado en el equipo de trabajo.
+
+En general, valoro muy positivamente el seguimiento realizado tanto por parte del instituto como de la empresa.
 
 ---
 

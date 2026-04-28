@@ -97,3 +97,10 @@ La causa del problema era que el tutor de la empresa, Óscar Merino, debía comp
 
 ## 7. Valoración personal de la estancia Dual
 
+Mi experiencia en la estancia Dual ha sido muy positiva. Estoy contento tanto con el trato recibido como con el aprendizaje adquirido.
+
+He aprendido mucho durante este periodo, especialmente sobre cómo se trabaja en una empresa municipal y cómo se organizan las tareas en un entorno profesional.
+
+Además, esta experiencia me ha ayudado en mis estudios, ya que muchos de los conocimientos adquiridos en la empresa me han facilitado la realización de proyectos en clase, al tener una visión más práctica y real del trabajo.
+
+En general, considero que esta experiencia ha sido muy útil para mi desarrollo personal y profesional.

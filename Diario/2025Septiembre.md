@@ -1,6 +1,6 @@
 # SEPTIEMBRE
 
-## Semana 1 (1 - 5 septiembre)
+## Semana 1 - 5 septiembre
 
 Esta primera semana después de volver empecé otra vez a situarme en el trabajo después del parón. Estuve repasando un poco todo lo que había visto antes, sobre todo el funcionamiento de RHP y los web services.
 
@@ -8,7 +8,7 @@ También aproveché para revisar código y documentación que ya tenía, para vo
 
 ---
 
-## Semana 2 (8 - 12 septiembre)
+## Semana 8 - 12 septiembre
 
 Durante esta semana estuve trabajando en el nuevo apartado de taquillas dentro de RHP. Me encargué de solucionar algunos problemas que habían surgido y de implementar mejoras que se habían solicitado.
 
@@ -16,7 +16,7 @@ Para ello tuve que revisar el código existente, entender cómo estaba hecha la 
 
 ---
 
-## Semana 3 (15 - 19 septiembre)
+## Semana 15 - 19 septiembre
 
 Esta semana seguí trabajando con el tema de las taquillas en RHP. Continué solucionando incidencias y aplicando mejoras, intentando que todo funcionara de forma más correcta y estable.
 
@@ -24,7 +24,7 @@ También fui entendiendo mejor cómo se gestionan los cambios en un sistema real
 
 ---
 
-## Semana 4 (22 - 26 septiembre)
+## Semana 22 - 26 septiembre
 
 Durante esta semana tuve una reunión sobre la aplicación móvil en la que está trabajando la empresa, lo que me ayudó a entender mejor el estado actual del proyecto y cómo se están organizando.
 
@@ -32,7 +32,7 @@ También estuve trabajando en los web services relacionados con la app, revisand
 
 ---
 
-## Semana 5 (29 septiembre - 3 octubre)
+## Semana 29 septiembre - 3 octubre
 
 En esta semana hubo una reunión con el nuevo desarrollador que se ha incorporado al proyecto de la app, ya que el anterior dejó la empresa. En la reunión comentamos el estado actual de la aplicación y también temas relacionados con los nodos de los dispositivos VTrack.
 

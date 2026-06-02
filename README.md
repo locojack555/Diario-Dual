@@ -109,4 +109,4 @@ En general, considero que esta experiencia ha sido muy útil para mi desarrollo 
 
 ## 8. Video Experiencia Dual
 
-Link al video de mi experiencia de Dual: 
+Link al video de mi experiencia de Dual: https://drive.google.com/file/d/19ZLWd_qFXInVHO1DVykbZdHgzMckVH4v/view?usp=drive_link

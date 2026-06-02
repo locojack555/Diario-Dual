@@ -109,4 +109,4 @@ En general, considero que esta experiencia ha sido muy útil para mi desarrollo 
 
 ## 8. Video Experiencia Dual
 
-Link al video de mi experiencia de Dual: https://drive.google.com/file/d/19ZLWd_qFXInVHO1DVykbZdHgzMckVH4v/view?usp=drive_link
+Link al video de mi experiencia de Dual: [Experiencia Dual Jack Arevalo-Eco Equip](https://drive.google.com/file/d/130BSxgpUemFjkWNvPFM3JKegZr7l-wwX/view?usp=drive_link)

@@ -104,3 +104,9 @@ He aprendido mucho durante este periodo, especialmente sobre cómo se trabaja en
 Además, esta experiencia me ha ayudado en mis estudios, ya que muchos de los conocimientos adquiridos en la empresa me han facilitado la realización de proyectos en clase, al tener una visión más práctica y real del trabajo.
 
 En general, considero que esta experiencia ha sido muy útil para mi desarrollo personal y profesional.
+
+---
+
+## 8. Video Experiencia Dual
+
+Link al video de mi experiencia de Dual: 
